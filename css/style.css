@@ -357,7 +357,7 @@ nav {
     align-items: flex-end;
     justify-content: center;
     overflow: hidden;
-    box-shadow: 0px 0px 20px rgb(255, 253, 123);
+    box-shadow: 0 2px 4px hsla(0, 0%, 1%, .1);
 }
 
 
@@ -944,7 +944,7 @@ nav {
     .home__handle {
         width: 120px;
         height: 200px;
-        box-shadow: 0px 0px 20px rgb(255, 253, 123);
+        box-shadow: 0 2px 4px hsla(0, 0%, 1%, .1)
     }
 
     .home__img{
@@ -994,7 +994,7 @@ nav {
     }
 
     .home__handle {
-        box-shadow: 0px 0px 20px rgb(255, 253, 123);
+        box-shadow: 0 2px 4px hsla(0, 0%, 1%, .1);
     }
     
     .nav__menu {
@@ -1091,7 +1091,7 @@ nav {
         width: 290px;
         height: 400px;
         border-radius: 10rem 10rem 1rem 1rem;
-        box-shadow: 0px 0px 20px rgb(255, 253, 123);
+        box-shadow: 0 2px 4px hsla(0, 0%, 1%, .1);
     }
 
     .home__img {
