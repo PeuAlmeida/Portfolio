@@ -339,6 +339,7 @@ nav {
     border-radius: 0.5rem;
     width: 350px;
     height: 300px;
+    object-fit: cover;
     
     
     
@@ -950,6 +951,7 @@ nav {
     .home__img{
         width: 120px;
         height: 200px;
+        object-fit: cover;
     }
 
     .about__info {
@@ -991,6 +993,7 @@ nav {
     .home__img {
         width: 266px;
         height: 300px;
+        object-fit: cover;
     }
 
     .home__handle {
@@ -1097,6 +1100,7 @@ nav {
     .home__img {
         width: 350px;
         height: 400px;
+        object-fit: cover;
     }
 
     .home__social-link {
